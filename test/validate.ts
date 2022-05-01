@@ -13,6 +13,7 @@ test('Load Eslint Config to Validate Syntax Rules', async () => {
   const lint = await cli.lintFiles('./test/cases/positive.ts');
 
   assert.equal(lint[0].errorCount, 0);
+  assert.equal(lint[0].warningCount, 0);
 });
 
 test.run();

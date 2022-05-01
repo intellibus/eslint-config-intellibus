@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "lib": ["dom", "es6"],
+    "pretty": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "strict": true,
+    "target": "es6",
+    "removeComments": true,
+    "resolveJsonModule": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./src",
+    "allowJs": true
+  },
+  "exclude": ["index.ts", "ts.ts"]
+}

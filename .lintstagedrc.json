@@ -1,9 +1,3 @@
 {
-  "**/*.ts": [
-    "rimraf dist",
-    "esbuild src/*.ts --minify --outdir=dist --platform=node --target=node14 --format=cjs",
-    "tsc -d src/*.ts --declarationDir dist --emitDeclarationOnly",
-    "pretty-quick",
-    "eslint --cache --fix --ext .ts"
-  ]
+  "**/*.ts": ["pretty-quick", "eslint --cache --fix --ext .ts"]
 }

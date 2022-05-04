@@ -68,9 +68,6 @@
   "peerDependenciesMeta": {
     "typescript": {
       "optional": true
-    },
-    "svelte": {
-      "optional": true
     }
   },
   "eslintConfig": {

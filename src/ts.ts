@@ -73,6 +73,7 @@ const module = {
     '@typescript-eslint/no-use-before-define': ['error'],
     'jsdoc/require-param-type': 'off',
     'jsdoc/require-param': 'off',
+    'no-underscore-dangle': 'off'
   },
 };
 

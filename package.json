@@ -23,9 +23,6 @@
     "semantic-release": "semantic-release",
     "prepare": "husky install"
   },
-  "optionalDependencies": {
-    "eslint-plugin-svelte3": "3.4.1"
-  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "5.21.0",
     "@typescript-eslint/parser": "5.21.0",

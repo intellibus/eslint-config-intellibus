@@ -34,7 +34,7 @@ specifiers:
   rimraf: 3.0.2
   semantic-release: 19.0.3
   semantic-release-interval: 1.0.46
-  svelte: 3.48.0
+  svelte: 3.49.0
   tsm: 2.2.1
   typescript: 4.7.4
   uvu: 0.5.6
@@ -75,7 +75,7 @@ devDependencies:
   rimraf: 3.0.2
   semantic-release: 19.0.3
   semantic-release-interval: 1.0.46
-  svelte: 3.48.0
+  svelte: 3.49.0
   tsm: 2.2.1
   typescript: 4.7.4
   uvu: 0.5.6
@@ -4268,8 +4268,8 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
-  /svelte/3.48.0:
-    resolution: {integrity: sha512-fN2YRm/bGumvjUpu6yI3BpvZnpIm9I6A7HR4oUNYd7ggYyIwSA/BX7DJ+UXXffLp6XNcUijyLvttbPVCYa/3xQ==}
+  /svelte/3.49.0:
+    resolution: {integrity: sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==}
     engines: {node: '>= 8'}
     dev: true
 

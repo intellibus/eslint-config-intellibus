@@ -25,7 +25,7 @@ specifiers:
   eslint-plugin-etc: ^2.0.2
   eslint-plugin-import: 2.26.0
   eslint-plugin-jsdoc: 39.3.2
-  eslint-plugin-no-only-tests: 2.6.0
+  eslint-plugin-no-only-tests: 3.0.0
   eslint-plugin-promise: 6.0.0
   husky: 8.0.1
   lint-staged: 13.0.3
@@ -50,7 +50,7 @@ dependencies:
   eslint-plugin-etc: 2.0.2_he2ccbldppg44uulnyq4rwocfa
   eslint-plugin-import: 2.26.0_7jauv7hb4bwkbkwgoa4iu6aulm
   eslint-plugin-jsdoc: 39.3.2_eslint@8.20.0
-  eslint-plugin-no-only-tests: 2.6.0
+  eslint-plugin-no-only-tests: 3.0.0
   eslint-plugin-promise: 6.0.0_eslint@8.20.0
 
 devDependencies:
@@ -2040,9 +2040,9 @@ packages:
       - supports-color
     dev: false
 
-  /eslint-plugin-no-only-tests/2.6.0:
-    resolution: {integrity: sha512-T9SmE/g6UV1uZo1oHAqOvL86XWl7Pl2EpRpnLI8g/bkJu+h7XBCB+1LnubRZ2CUQXj805vh4/CYZdnqtVaEo2Q==}
-    engines: {node: '>=4.0.0'}
+  /eslint-plugin-no-only-tests/3.0.0:
+    resolution: {integrity: sha512-I0PeXMs1vu21ap45hey4HQCJRqpcoIvGcNTPJe+UhUm8TwjQ6//mCrDqF8q0WS6LgmRDwQ4ovQej0AQsAHb5yg==}
+    engines: {node: '>=5.0.0'}
     dev: false
 
   /eslint-plugin-promise/6.0.0_eslint@8.20.0:

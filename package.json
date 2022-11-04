@@ -46,7 +46,7 @@
     "@semantic-release/github": "8.0.6",
     "@semantic-release/npm": "9.0.1",
     "@semantic-release/release-notes-generator": "10.0.3",
-    "@types/eslint": "8.4.9",
+    "@types/eslint": "8.4.10",
     "@types/node": "18.11.9",
     "commitizen": "4.2.5",
     "cz-conventional-changelog": "3.3.0",

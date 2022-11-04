@@ -9,7 +9,7 @@ specifiers:
   '@semantic-release/github': 8.0.6
   '@semantic-release/npm': 9.0.1
   '@semantic-release/release-notes-generator': 10.0.3
-  '@types/eslint': 8.4.9
+  '@types/eslint': 8.4.10
   '@types/node': 18.11.9
   '@typescript-eslint/eslint-plugin': 5.30.5
   '@typescript-eslint/parser': 5.30.5
@@ -62,7 +62,7 @@ devDependencies:
   '@semantic-release/github': 8.0.6_semantic-release@19.0.5
   '@semantic-release/npm': 9.0.1_semantic-release@19.0.5
   '@semantic-release/release-notes-generator': 10.0.3_semantic-release@19.0.5
-  '@types/eslint': 8.4.9
+  '@types/eslint': 8.4.10
   '@types/node': 18.11.9
   commitizen: 4.2.5
   cz-conventional-changelog: 3.3.0
@@ -642,8 +642,8 @@ packages:
     resolution: {integrity: sha512-yOlFc+7UtL/89t2ZhjPvvB/DeAr3r+Dq58IgzsFkOAvVC6NMJXmCGjbptdXdR9qsX7pKcTL+s87FtYREi2dEEQ==}
     dev: true
 
-  /@types/eslint/8.4.9:
-    resolution: {integrity: sha512-jFCSo4wJzlHQLCpceUhUnXdrPuCNOjGFMQ8Eg6JXxlz3QaCKOb7eGi2cephQdM4XTYsNej69P9JDJ1zqNIbncQ==}
+  /@types/eslint/8.4.10:
+    resolution: {integrity: sha512-Sl/HOqN8NKPmhWo2VBEPm0nvHnu2LL3v9vKo8MEq0EtbJ4eVzGPl41VNPvn5E1i5poMk4/XD8UriLHpJvEP/Nw==}
     dependencies:
       '@types/estree': 1.0.0
       '@types/json-schema': 7.0.11

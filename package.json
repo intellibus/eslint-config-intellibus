@@ -50,7 +50,7 @@
     "@types/node": "18.11.18",
     "commitizen": "4.3.0",
     "cz-conventional-changelog": "3.3.0",
-    "esbuild": "0.17.3",
+    "esbuild": "0.17.4",
     "eslint": "8.32.0",
     "husky": "8.0.3",
     "lint-staged": "13.1.0",

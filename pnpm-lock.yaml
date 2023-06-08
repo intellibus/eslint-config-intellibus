@@ -68,8 +68,8 @@ devDependencies:
     specifier: 11.0.3
     version: 11.0.3(semantic-release@21.0.3)
   '@types/eslint':
-    specifier: 8.40.0
-    version: 8.40.0
+    specifier: 8.40.1
+    version: 8.40.1
   '@types/node':
     specifier: 18.16.16
     version: 18.16.16
@@ -928,8 +928,8 @@ packages:
     resolution: {integrity: sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==}
     dev: true
 
-  /@types/eslint@8.40.0:
-    resolution: {integrity: sha512-nbq2mvc/tBrK9zQQuItvjJl++GTN5j06DaPtp3hZCpngmG6Q3xoyEmd0TwZI0gAy/G1X0zhGBbr2imsGFdFV0g==}
+  /@types/eslint@8.40.1:
+    resolution: {integrity: sha512-vRb792M4mF1FBT+eoLecmkpLXwxsBHvWWRGJjzbYANBM6DtiJc6yETyv4rqDA6QNjF1pkj1U7LMA6dGb3VYlHw==}
     dependencies:
       '@types/estree': 1.0.1
       '@types/json-schema': 7.0.12

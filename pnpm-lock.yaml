@@ -107,8 +107,8 @@ devDependencies:
     specifier: 1.0.46
     version: 1.0.46
   svelte:
-    specifier: 4.0.0
-    version: 4.0.0
+    specifier: 4.0.1
+    version: 4.0.1
   tsm:
     specifier: 2.3.0
     version: 2.3.0
@@ -5100,8 +5100,8 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
-  /svelte@4.0.0:
-    resolution: {integrity: sha512-+yCYu3AEUu9n91dnQNGIbnVp8EmNQtuF/YImW4+FTXRHard7NMo+yTsWzggPAbj3fUEJ1FBJLkql/jkp6YB5pg==}
+  /svelte@4.0.1:
+    resolution: {integrity: sha512-7n2u7A5cu8xCY6MBiXh/Mg6Lh3+Mw2qXlTDBYhzvCvmSM4L4gc4MVo540UtGcjqBiA48E1VDW+EUpBr7iuBlPg==}
     engines: {node: '>=16'}
     dependencies:
       '@ampproject/remapping': 2.2.1

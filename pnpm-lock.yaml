@@ -33,8 +33,8 @@ dependencies:
     specifier: 2.26.0
     version: 2.26.0(@typescript-eslint/parser@5.30.5)(eslint-import-resolver-typescript@2.7.1)(eslint@8.44.0)
   eslint-plugin-jsdoc:
-    specifier: 39.3.2
-    version: 39.3.2(eslint@8.44.0)
+    specifier: 39.9.1
+    version: 39.9.1(eslint@8.44.0)
   eslint-plugin-no-only-tests:
     specifier: 2.6.0
     version: 2.6.0
@@ -336,9 +336,9 @@ packages:
       '@jridgewell/trace-mapping': 0.3.9
     dev: true
 
-  /@es-joy/jsdoccomment@0.31.0:
-    resolution: {integrity: sha512-tc1/iuQcnaiSIUVad72PBierDFpsxdUHtEF/OrfqvM1CBAsIoMP51j52jTMb3dXriwhieTo289InzZj72jL3EQ==}
-    engines: {node: ^14 || ^16 || ^17 || ^18}
+  /@es-joy/jsdoccomment@0.36.1:
+    resolution: {integrity: sha512-922xqFsTpHs6D0BUiG4toiyPOMc8/jafnWKxz1KWgS4XzKPy2qXf1Pe6UFuNSCQqt6tOuhAWXBNuuyUhJmw9Vg==}
+    engines: {node: ^14 || ^16 || ^17 || ^18 || ^19}
     dependencies:
       comment-parser: 1.3.1
       esquery: 1.5.0
@@ -2530,13 +2530,13 @@ packages:
       - supports-color
     dev: false
 
-  /eslint-plugin-jsdoc@39.3.2(eslint@8.44.0):
-    resolution: {integrity: sha512-RSGN94RYzIJS/WfW3l6cXzRLfJWxvJgNQZ4w0WCaxJWDJMigtwTsILEAfKqmmPkT2rwMH/s3C7G5ChDE6cwPJg==}
-    engines: {node: ^14 || ^16 || ^17 || ^18}
+  /eslint-plugin-jsdoc@39.9.1(eslint@8.44.0):
+    resolution: {integrity: sha512-Rq2QY6BZP2meNIs48aZ3GlIlJgBqFCmR55+UBvaDkA3ZNQ0SvQXOs2QKkubakEijV8UbIVbVZKsOVN8G3MuqZw==}
+    engines: {node: ^14 || ^16 || ^17 || ^18 || ^19}
     peerDependencies:
       eslint: ^7.0.0 || ^8.0.0
     dependencies:
-      '@es-joy/jsdoccomment': 0.31.0
+      '@es-joy/jsdoccomment': 0.36.1
       comment-parser: 1.3.1
       debug: 4.3.4
       escape-string-regexp: 4.0.0
